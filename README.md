@@ -1,8 +1,8 @@
-# AI-doctor-chatbot
+# AI Doctor Chatbot
+
 
 ---
 
-# AI Doctor Chatbot
 
 This project involves creating an AI doctor chatbot powered by a fine-tuned Llama model. The chatbot offers detailed medical information and advice by leveraging a pre-trained Llama model, fine-tuned with a specialized medical dataset. This approach enables the chatbot to understand and respond accurately to user queries about various medical conditions.
 
